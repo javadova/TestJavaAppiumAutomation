@@ -1,1 +1,1 @@
-# mobile_automation
+# JavaAppiumAutomation
